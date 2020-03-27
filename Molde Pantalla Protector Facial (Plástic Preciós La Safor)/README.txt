@@ -10,7 +10,9 @@ El molde está pensado para fabricarse en aluminio de 15 mm de espesor.
 
 Para cerrarlo son necesarios 8 tornillos de M5 de mínimo 40 mm con sus respectivas tuercas y arandelas.
 
-Hay dos versiones V1_ que incluye dos agujeros para facilitar la inyección, son muy recomendables, en caso de que la empresa que hace el molde no pueda hacerlos se pueden hacer con un taladro manual.
+El agujero superior por donde se inyecta el plástico tiene 6mm, hay que adaptarlo a la boquilla de la inyectora.
+
+Al final de las patillas tiene dos agujeros de 2mm que ayudan a que fluya el plastico, son muy recomendables y se pueden hacer a mano una vez el molde esta mecanizado.
 
 Material extra necesario para finalizar la pantalla:
   • Láminas de PVC transparente de 0.1- 0.2 mm espessor o similar.para la pantalla.
@@ -33,7 +35,9 @@ This mold is designed to be made in aluminum 15mm thick
 
 To close it you will need 8 M5 screws at least 40mm long.
 
-There are two versions V1_ includes 2 holes so injecting is easier, they are highly recommended, if they can’t be mechanized you should drill them by hand.
+The top hole where the plastic is injected has 6mm diameter, you should adjust it to your needs.
+
+At the end of each arm there is a hole, its to ease the fill of the mould, they are highly recommended and can be done by hand if necessary.
 
 Extra material to finish the protection screen:
   • Transparent pvc sheets or similar (amazon or local paper store)
