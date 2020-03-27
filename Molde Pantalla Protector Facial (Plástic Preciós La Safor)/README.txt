@@ -10,7 +10,7 @@ El molde está pensado para fabricarse en aluminio de 15 mm de espesor.
 
 Para cerrarlo son necesarios 8 tornillos de M5 de mínimo 40 mm con sus respectivas tuercas y arandelas.
 
-El agujero superior por donde se inyecta el plástico tiene 6mm, hay que adaptarlo a la boquilla de la inyectora.
+La cara A tiene el agujero superior por donde se inyecta el plástico, tiene 6mm, hay que adaptarlo a la boquilla de la inyectora.
 
 Al final de las patillas tiene dos agujeros de 2mm que ayudan a que fluya el plastico, son muy recomendables y se pueden hacer a mano una vez el molde esta mecanizado.
 
@@ -35,7 +35,7 @@ This mold is designed to be made in aluminum 15mm thick
 
 To close it you will need 8 M5 screws at least 40mm long.
 
-The top hole where the plastic is injected has 6mm diameter, you should adjust it to your needs.
+Face A has the top hole where the plastic is injected it has 6mm diameter, you should adjust it to your needs.
 
 At the end of each arm there is a hole, its to ease the fill of the mould, they are highly recommended and can be done by hand if necessary.
 
