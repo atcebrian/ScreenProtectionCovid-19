@@ -10,6 +10,8 @@ El molde está pensado para fabricarse en aluminio de 15 mm de espesor.
 
 Para cerrarlo son necesarios 8 tornillos de M5 de mínimo 40 mm con sus respectivas tuercas y arandelas.
 
+La version dos (V2) incluye algunas modificaciones y mejoras pero no ha sido testeado.
+
 La cara A tiene el agujero superior por donde se inyecta el plástico, tiene 6mm, hay que adaptarlo a la boquilla de la inyectora.
 
 Al final de las patillas tiene dos agujeros de 2mm que ayudan a que fluya el plastico, son muy recomendables y se pueden hacer a mano una vez el molde esta mecanizado.
@@ -30,6 +32,8 @@ This mold is created by Plàstic PReciós la Safor to be used with a manual inje
 Feel free to modify and if you send us new documentation, we will add it.
 
 (Facebook: @plasticprecioslasafor ; Instagram:plasticpreciossafor)
+
+Version 2 (V2) has some improvements but has not been tested yet.
 
 This mold is designed to be made in aluminum 15mm thick
 
