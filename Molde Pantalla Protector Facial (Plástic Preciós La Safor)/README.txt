@@ -10,7 +10,7 @@ El molde está pensado para fabricarse en aluminio de 15 mm de espesor.
 
 Para cerrarlo son necesarios 8 tornillos de M5 de mínimo 40 mm con sus respectivas tuercas y arandelas.
 
-La version dos (V2) incluye algunas modificaciones y mejoras pero no ha sido testeado.
+La version dos (V2) incluye algunas modificaciones y mejoras.
 
 La cara A tiene el agujero superior por donde se inyecta el plástico, tiene 6mm, hay que adaptarlo a la boquilla de la inyectora.
 
@@ -33,7 +33,7 @@ Feel free to modify and if you send us new documentation, we will add it.
 
 (Facebook: @plasticprecioslasafor ; Instagram:plasticpreciossafor)
 
-Version 2 (V2) has some improvements but has not been tested yet.
+Version 2 (V2) has some improvements.
 
 This mold is designed to be made in aluminum 15mm thick
 
